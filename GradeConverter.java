@@ -12,6 +12,8 @@ public class GradeConverter {
 	main method to run program
 	*/
 	public static void main(String[] args) {
+		double score;
+		String grade;
 		
 	}
 }
