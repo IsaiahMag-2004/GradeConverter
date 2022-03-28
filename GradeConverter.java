@@ -16,6 +16,8 @@ public class GradeConverter {
 		double score;
 		String grade;
 		
+		System.out.print("Enter your score: ");
+		score = input.nextDouble();
 		
 	}
 }
