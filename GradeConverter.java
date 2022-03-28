@@ -56,5 +56,7 @@ public class GradeConverter {
 			grade = "F";
 		}
 		
+		System.out.println("Score: " + score);
+		System.out.println("Grade: " + grade);
 	}
 }
